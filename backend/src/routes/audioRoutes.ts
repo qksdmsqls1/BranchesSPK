@@ -1,5 +1,3 @@
-// src/routes/audioRoutes.ts
-
 import express from 'express';
 import multer from 'multer';
 import { uploadAudio, getAudio, handleVoiceMessage } from '../controllers/AudioController';
