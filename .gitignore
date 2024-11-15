@@ -1,0 +1,6 @@
+\build
+node_modules
+nodemon.json
+backend/dist/*
+.env
+backend/uploads/*
